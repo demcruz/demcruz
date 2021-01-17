@@ -1,12 +1,7 @@
-### Hi Eu sou o Diego Cruz 👋
+### Olá eu sou o Diego Cruz 👋
 
 <!--
 **demcruz/demcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![Diego Cruz github Estatísticas ](https://github-readme-stats.vercel.app/api?username=demcruz)](https://github.com/anuraghazra/github-readme-stats)
-![Diego Cruz github Estatísticas ](https://github-readme-stats.vercel.app/api?username=demcruz&show_icons=true)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/demcruz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=demcruz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Diego Cruz github Estatistica" />
+</a>
