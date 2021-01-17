@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi Eu sou o Diego Cruz 👋
 
 <!--
 **demcruz/demcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Diego Cruz github Estatísticas ](https://github-readme-stats.vercel.app/api?username=demcruz)](https://github.com/anuraghazra/github-readme-stats)
+![Diego Cruz github Estatísticas ](https://github-readme-stats.vercel.app/api?username=demcruz&show_icons=true)
 
 Here are some ideas to get you started:
 
