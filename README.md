@@ -1,6 +1,17 @@
-### Hi i'm Diego Cruz 👋
+### My name isDiego Cruz 👋
 
-### a passionate a developer frontEnd web and BackEnd 
+💝 Some technologies and topics that i love
+🔹 Node.JS
+
+🔹 Java
+
+🔹 React.JS
+
+🔹 Cloud computing
+
+🔹 TDD
+
+🔹 Microservices
 
 <!--
 **demcruz/demcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
