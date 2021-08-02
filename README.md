@@ -1,4 +1,4 @@
-### My name isDiego Cruz 👋
+### My name is Diego Cruz 👋
 
 💝 Some technologies and topics that i love
 
